@@ -1,98 +1,90 @@
 ﻿url,name,icon,description,categories,
-https://worktile.com/,Worktile,Worktile.png,团队协作工具,办公工具,工具
-https://www.yuque.com/,语雀,yuque.png,团队知识库工具,办公工具,工具
-https://www.jiandaoyun.com/,简道云,jiandaoyun.png,云上表单,办公工具,工具
+https://gs.amazon.cn/resources/live-broadcast.html,亚马逊全球开店线上直播,amazon.png,,亚马逊官方教程,亚马逊
+http://e.vhall.com/user/home/34828975,亚马逊广告直播官方频道,amazon.png,,亚马逊官方教程,亚马逊
 https://sellercentral.amazon.com/,亚马逊美国站 后台,amazon.png,卖家后台,亚马逊官方后台,亚马逊
 https://sellercentral.amazon.com/help/hub/support,亚马逊美国站 卖家支持,amazon.png,开 case 快捷通道,亚马逊官方后台,亚马逊
-https://www.paypal.com/businessexp/money,PayPal,PayPal.png,,支付收款,配套
-https://www.pingpongx.com/zh,PingPong,PingPong.png,,支付收款,配套
-https://www.payoneer.com/,Payoneer,Payoneer.png,,支付收款,配套
-https://global.lianlianpay.com/account,连连支付,lianlian.png,,支付收款,配套
-https://www.2checkout.com/,2Checkout,2Checkout.png,独立站信用卡收款,支付收款,配套
-https://voice.google.com/,Google Voice,Google_Voice.png,,外贸工具,外贸
-https://ads.google.com/aw/keywordplanner/home,Google 关键字规划师,Google_关键字规划师.png,,独立站广告工具,独立站
-https://analytics.google.com/analytics/web/,Google Analytics,Google_Analytics.png,,独立站广告工具,独立站
-https://merchants.google.com/,Google Merchant Center,Google_Merchant_Center.png,,独立站广告工具,独立站
-https://ads.google.com/aw/express/summary,Google 广告,Google_ads.png,Google 广告后台,独立站广告工具,独立站
-https://business.facebook.com/,Facebook 商务管理平台,Facebook_商务管理平台.png,,独立站广告工具,独立站
-https://account.shareasale.com/,Shareasale,Shareasale.png,联盟网站,营销推广,配套
-https://account.godaddy.com/products,Godaddy,Godaddy.png,域名服务商,域名,独立站
-https://themeforest.net/category/ecommerce/shopify,ThemeForest,ThemeForest.png,Shopify 模板,独立站工具,独立站
-https://search.google.com/test/mobile-friendly,Google Search Console,Google_Search_Console.png,移动设备适合性测试,独立站工具,独立站
-https://developers.google.com/speed/pagespeed/insights/,PageSpeed Insights,PageSpeed_Insights.png,Google 网页测速,独立站工具,独立站
-https://gtmetrix.com/,GTmetrix,GTmetrix.png,网页测速,独立站工具,独立站
-https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ALL&impression_search_field=has_impressions_lifetime,Facebook 广告资料库,Facebook_广告资料库.png,,独立站广告工具,独立站
-https://www.matson.com/,MATSON,MATSON.png,,物流,配套
-https://www.convertworld.com/zh-hans/,在线单位转换,在线单位转换.png,,小工具,工具
-https://keywordtool.io/search/keywords/google/30721928?category=web&keyword=hunmmingbird%20feeder&country=GLB&language=en#suggestions,搜索量查询工具,搜索量查询工具.png,,小工具,工具
-https://www.hubspot.com/email-signature-generator,邮件签名栏设计工具,邮件签名栏设计工具.png,,小工具,工具
-https://my.vultr.com/,Vultr,Vultr.png,服务器商,云服务器,独立站
-https://bandwagonhost.com/aff.php?aff=61264,搬瓦工,搬瓦工.png,服务器商,云服务器,独立站
-https://www.iamxk.com/navigation?utm_source=baidu&utm_medium=cpc&utm_keyword=nav,设计小咖,设计小咖.png,设计导航,设计,配套
-https://luban.aliyun.com/web/gen-next/entry,鹿班,鹿班.png,电商主图等,设计,配套
-https://www.91sotu.com/,搜图导航,搜图导航.png,设计导航,设计,配套
-https://alidesign.taobao.com/work.htm#/iframe/weihaibao,阿里智能设计工作台,阿里智能设计工作台.png,,设计,配套
-https://color.adobe.com/zh/explore/?q=TPS2,Adobe color,Adobe_color.png,,设计,配套
-https://wentu.io/,文图,文图.png,可视化报告,设计,配套
-https://squoosh.app/,Squoosh,Squoosh.png,Google 的图片压缩工具,设计,配套
-https://downloadgram.com/,DownloadGram,DownloadGram.png,下载ins图片视频,设计,配套
-http://ezgif.com/optimize/3d73d4f3b4.gif,OptimizeanimatedGIF,OptimizeanimatedGIF.png,,设计,配套
-https://squoosh.app/editor,Squoosh,Squoosh.png,谷歌压缩图片,设计,配套
-https://zapier.com/app/zaps,Zapier,Zapier.png,自动化工具,办公工具,工具
-https://automate.io/app/bots/list,Automate.io,Automate.io.png,自动化工具,办公工具,工具
-https://drive.google.com/drive/my-drive,Google 云端硬盘,Google_云端硬盘.png,,办公工具,工具
-https://www.jianguoyun.com/,坚果云,坚果云.png,,办公工具,工具
-https://goo.gl/,Google URL Shortener,Google_URL_Shortener.png,,办公工具,工具
-https://www.processon.com/;jsessionid=795BAF83E00E7A1CD0FF5B7F37DEA0D1.jvm1,ProcessOn,ProcessOn.png,,办公工具,工具
-http://naotu.baidu.com/home,百度脑图,百度脑图.png,,办公工具,工具
-http://www.tietuku.com/,贴图库,贴图库.png,图片外链,办公工具,工具
-https://docs.google.com/spreadsheets/u/0/,Google 表格,Google_表格.png,,办公工具,工具
-http://tool.chinaz.com/Tools/URLEncode.aspx,UrlEncode 编码,UrlEncode_编码.png,,小工具,工具
-https://www.topster.cn/calendar/zeitrechner.php?sdatum=&szeit=12%3A00%3A00&styp=jetzt&edatum=2017-12-20&ezeit=02%3A59%3A42&typ=dazu&subDazu=%2B&jahredazu=0&wochendazu=0&tagedazu=6&zeitdazu=21%3A52,时间计算器,时间计算器.png,,小工具,工具
-https://gapp.wisestamp.com/domain/user_list,WiseStamp,WiseStamp.png,邮件签名设计,小工具,工具
-https://us19.admin.mailchimp.com/lists/members/?id=146827#p:1-s:25-sa:last_update_time-so:false,Mailchimp,Mailchimp.png,邮件营销,小工具,工具
-https://tools.miku.ac/,MikuTools,MikuTools.png,轻量工具集合,小工具,工具
-https://www.upwork.com/ab/profiles/search/?q=brand%20name&user_pref=2,Upwork,Upwork.png,,外包平台,配套
-https://www.maoken.com/all-fonts,猫啃网,猫啃网.png,免费商用中文字体合集,设计,配套
-https://web.woobx.cn/,一个木函工具箱,一个木函工具箱.png,轻量工具集合,小工具,工具
-https://www.facebook.com/,Facebook,Facebook.png,,社交媒体,配套
-https://www.instagram.com/?hl=zh-tw,Instagram,Instagram.png,,社交媒体,配套
-https://www.chenfeiblog.com/,晨飞博客,晨飞博客.png,,博客,学习
-https://www.shopifynotes.com/,AlexShopify 笔记,AlexShopify_笔记.png,,博客,学习
-https://www.ilaozhang.com/shopify-returns/,老张独立站笔记,老张独立站笔记.png,,博客,学习
-https://bbs.ichuanglan.com/,创蓝论坛,创蓝论坛.png,,论坛,学习
-http://www.wearesellers.com/,知无不言社区,知无不言社区.png,,论坛,学习
-https://shimo.im/docs/9sNsftVhlw0YgabD/read,Will的亚马逊直播干货,Will的亚马逊直播干货.png,,学习资料,学习
-https://gs.amazon.cn/resources/live-broadcast.html,亚马逊全球开店线上直播,亚马逊全球开店线上直播.png,,亚马逊官方教程,亚马逊
-http://e.vhall.com/user/home/34828975,亚马逊广告直播官方频道,亚马逊广告直播官方频道.png,,亚马逊官方教程,亚马逊
-https://search.google.com/search-console,Google Search Console,Google_Search_Console.png,,独立站工具,独立站
-https://translate.google.cn/,Google 翻译,Google_翻译.png,,翻译工具,工具
-https://www.deepl.com/zh/translator,DeepL,DeepL.png,人工智能翻译工具,翻译工具,工具
-http://caiyunapp.com/fanyi/,彩云小译,彩云小译.png,人工智能翻译工具,翻译工具,工具
-http://xpareto.com/,Xpareto,Xpareto.png,Top Shopify Stores 排行榜,选品,选品
-https://www.shopify.com/success-stories,Shopify Success Stories,Shopify_Success_Stories.png,Shopify 官方成功故事,选品,选品
-https://www.shopistores.com/,ShopiStores,ShopiStores.png,Shopify 店铺、APP、热销产品的排行榜,选品,选品
-https://myip.ms/browse/sites/1/own/376714,Myip.ms,Myip.ms.png,Shopify 网站排名,选品,选品
-https://www.marketplacepulse.com/amazon/top-amazon-marketplace-sellers,Top 100 Amazon Sellers,marketplace_pulse.png,排名基于最近 30 天收到的好评数量,选品,选品
-https://www.indeed.com/cmp/Cracker-Barrel/faq/what-day-is-payday-what-day-does-the-week-start?quid=1b9r547co5j6ja9g,发薪日,发薪日.png,,营销推广,配套
-https://app.powerbi.com/groups/me/reports/,Power BI,Power_BI.png,,办公工具,工具
-https://slickdeals.net/newsearch.php?src=SearchBar&q=hummingbird+feeder&searcharea=deals&searchin=first,Slickdeals,Slickdeals.png,deal站,营销推广,配套
 https://brandregistry.amazon.com/home,亚马逊 品牌后台,amazon.png,品牌注册及知识产权举报,亚马逊官方后台,亚马逊
-https://ahrefs.com/blog/zh/seo-tips/,ahrefs博客,ahrefs博客.png,,博客,学习
-https://justmysocks1.net/members/clientarea.php?action=productdetails&id=68524,Just My Socks,Just_My_Socks.png,VPN 服务商，搬瓦工旗下,网络工具,独立站
-http://www.panjiayu333.cn/index.html,空格派,空格派.png,,小工具,工具
-https://hao.uisdc.com/,优设,优设.png,设计师网址导航,设计,配套
-https://trends.google.com/,Google Trends,google_trends.png,Google 趋势,选品,选品
-https://www.uspto.gov/,美国专利商标局,uspto.png,美国商标专利搜索,商标专利,配套
-https://squoosh.app/index.html,Squoosh,Squoosh.png,图片压缩工具,设计,配套
-https://tinyjpg.com/,Tinyjpg,tinyjpg.png,图片压缩工具,设计,配套
-https://www.similarweb.com/website/colourpop.com,Similarweb,Similarweb.png,网站分析 ,网站分析,独立站
-https://smallpdf.com/,SmallPDF,SmallPDF.png,PDF 文件处理 ,设计,配套
-https://bbs.ichuanglan.com/forum.php,创蓝论坛,创蓝论坛.png,亚马逊卖家论坛,论坛,学习
+https://www.ikjzd.com/,跨境知道,ikjzd.png,亚马逊资讯平台,资讯平台,学习
+https://www.cifnews.com/,雨果网,cifnews.png,亚马逊资讯平台,资讯平台,学习
+https://mjzj.com/,卖家之家,mjzj.png,亚马逊资讯平台,资讯平台,学习
+https://shimo.im/docs/9sNsftVhlw0YgabD/read,Will的亚马逊直播干货,will.png,,学习资料,学习
+https://bbs.ichuanglan.com/,创蓝论坛,chuanglan.png,亚马逊卖家论坛,论坛,学习
+http://www.wearesellers.com/,知无不言社区,zhiwubuyan.png,亚马逊卖家论坛,论坛,学习
+https://www.chenfeiblog.com/,晨飞博客,chenfeiblog.png,,博客,学习
+https://www.shopifynotes.com/,AlexShopify 笔记,shopifynotes.png,,博客,学习
+https://www.ilaozhang.com/shopify-returns/,老张独立站笔记,ilaozhang.png,,博客,学习
+https://ahrefs.com/blog/zh/seo-tips/,ahrefs博客,ahrefs.png,,博客,学习
 http://www.guxiaobei.com/,顾小北的 B2C 博客,guxiaobei.png,跨境电商 B2C 营销经验分享,博客,学习
-https://www.ikjzd.com/,跨境知道,跨境知道.png,亚马逊资讯平台,资讯平台,学习
-https://www.cifnews.com/,雨果网,雨果网.png,亚马逊资讯平台,资讯平台,学习
-https://mjzj.com/,卖家之家,卖家之家.png,亚马逊资讯平台,资讯平台,学习
-https://www.wearesellers.com/#,知无不言论坛,知无不言论坛.png,亚马逊卖家论坛,论坛,学习
-https://www.waimaob2c.com/,歪猫博客,歪猫博客.png,Shopify 独立站教程,博客,学习
-https://www.thinkwithgoogle.com/feature/category-trends/us/year/en,Rising Retail Categories,Rising_Retail_Categories.png,快速崛起的零售品类，Google 出品,选品,选品
+https://www.waimaob2c.com/,歪猫博客,waimaob2c.png,Shopify 独立站教程,博客,学习
+http://xpareto.com/,Xpareto,xpareto.png,Top Shopify Stores 排行榜,选品,选品
+https://www.shopify.com/success-stories,Shopify Success Stories,shopify-success-stories.png,Shopify 官方成功故事,选品,选品
+https://www.shopistores.com/,ShopiStores,shopistores.png,Shopify 店铺、APP、热销产品的排行榜,选品,选品
+https://myip.ms/browse/sites/1/own/376714,Myip.ms,myip-ms.png,Shopify 网站排名,选品,选品
+https://www.marketplacepulse.com/amazon/top-amazon-marketplace-sellers,Top 100 Amazon Sellers,marketplace-pulse.png,排名基于最近 30 天收到的好评数量,选品,选品
+https://trends.google.com/,Google Trends,google-trends.png,Google 趋势,选品,选品
+https://www.thinkwithgoogle.com/feature/category-trends/us/year/en,Rising Retail Categories,rising-retail-categories.png,快速崛起的零售品类，Google 出品,选品,选品
+https://voice.google.com/,Google Voice,google-voice.png,,外贸工具,外贸
+https://www.paypal.com/businessexp/money,PayPal,paypal.png,,支付收款,配套
+https://www.pingpongx.com/zh,PingPong,pingpong.png,,支付收款,配套
+https://www.payoneer.com/,Payoneer,payoneer.png,,支付收款,配套
+https://global.lianlianpay.com/account,连连支付,lianlian.png,,支付收款,配套
+https://www.2checkout.com/,2Checkout,2checkout.png,独立站信用卡收款,支付收款,配套
+https://account.shareasale.com/,Shareasale,shareasale.png,联盟网站,营销推广,配套
+https://slickdeals.net/newsearch.php?src=SearchBar&q=hummingbird+feeder&searcharea=deals&searchin=first,Slickdeals,slickdeals.png,deal站,营销推广,配套
+https://www.matson.com/,MATSON,matson.png,,物流,配套
+https://www.upwork.com/ab/profiles/search/?q=brand%20name&user_pref=2,Upwork,upwork.png,,外包平台,配套
+https://www.facebook.com/,Facebook,facebook.png,,社交媒体,配套
+https://www.instagram.com/?hl=zh-tw,Instagram,instagram.png,,社交媒体,配套
+https://luban.aliyun.com/,鹿班,luban.png,阿里出品，智能生成电商主图、海报等,设计,配套
+https://www.91sotu.com/,搜图导航,91sotu.png,设计导航,设计,配套
+https://alidesign.taobao.com/work.htm#/iframe/weihaibao,阿里智能设计工作台,ali-design.png,,设计,配套
+https://color.adobe.com/zh/explore/?q=TPS2,Adobe color,adobe-color.png,,设计,配套
+https://squoosh.app/,Squoosh,squoosh.png,Google 的图片压缩工具,设计,配套
+https://downloadgram.com/,DownloadGram,downloadgram.png,下载ins图片视频,设计,配套
+http://ezgif.com/optimize/3d73d4f3b4.gif,OptimizeanimatedGIF,optimizeanimatedgif.png,,设计,配套
+https://squoosh.app/editor,Squoosh,squoosh.png,谷歌压缩图片,设计,配套
+https://hao.uisdc.com/,优设,uisdc.png,设计师网址导航,设计,配套
+https://squoosh.app/index.html,Squoosh,squoosh.png,图片压缩工具,设计,配套
+https://tinyjpg.com/,Tinyjpg,tinyjpg.png,图片压缩工具,设计,配套
+https://smallpdf.com/,SmallPDF,smallpdf.png,PDF 文件处理 ,设计,配套
+https://www.uspto.gov/,美国专利商标局,uspto.png,美国商标专利搜索,商标专利,配套
+https://www.convertworld.com/zh-hans/,在线单位转换,convert.png,,小工具,工具
+https://keywordtool.io/search/keywords/google/30721928?category=web&keyword=hunmmingbird%20feeder&country=GLB&language=en#suggestions,搜索量查询工具,keywordtool.png,,小工具,工具
+https://www.hubspot.com/email-signature-generator,邮件签名栏设计工具,email-signature.png,,小工具,工具
+https://www.topster.cn/calendar/zeitrechner.php?sdatum=&szeit=12%3A00%3A00&styp=jetzt&edatum=2017-12-20&ezeit=02%3A59%3A42&typ=dazu&subDazu=%2B&jahredazu=0&wochendazu=0&tagedazu=6&zeitdazu=21%3A52,时间计算器,time-convert.png,,小工具,工具
+https://gapp.wisestamp.com/domain/user_list,WiseStamp,wisestamp.png,邮件签名设计,小工具,工具
+https://us19.admin.mailchimp.com/lists/members/?id=146827#p:1-s:25-sa:last_update_time-so:false,Mailchimp,mailchimp.png,邮件营销,小工具,工具
+https://tools.miku.ac/,MikuTools,mikutools.png,轻量工具集合,小工具,工具
+https://web.woobx.cn/,一个木函工具箱,woobx.png,轻量工具集合,小工具,工具
+http://www.panjiayu333.cn/index.html,空格派,konggepai.png,,小工具,工具
+https://translate.google.cn/,Google 翻译,google-translate.png,,翻译工具,工具
+https://www.deepl.com/zh/translator,DeepL,deepl.png,人工智能翻译工具,翻译工具,工具
+http://caiyunapp.com/fanyi/,彩云小译,caiyun.png,人工智能翻译工具,翻译工具,工具
+https://worktile.com/,Worktile,worktile.png,团队协作工具,办公工具,工具
+https://www.yuque.com/,语雀,yuque.png,团队知识库工具,办公工具,工具
+https://www.jiandaoyun.com/,简道云,jiandaoyun.png,云上表单,办公工具,工具
+https://zapier.com/app/zaps,Zapier,zapier.png,自动化工具,办公工具,工具
+https://automate.io/app/bots/list,Automate.io,automate-io.png,自动化工具,办公工具,工具
+https://drive.google.com/drive/my-drive,Google 云端硬盘,google-drive.png,,办公工具,工具
+https://www.jianguoyun.com/,坚果云,jianguoyun.png,,办公工具,工具
+https://goo.gl/,Google URL Shortener,google-url-shortener.png,,办公工具,工具
+https://www.processon.com/;jsessionid=795BAF83E00E7A1CD0FF5B7F37DEA0D1.jvm1,ProcessOn,processon.png,,办公工具,工具
+http://www.tietuku.com/,贴图库,tietuku.png,图片外链,办公工具,工具
+https://docs.google.com/spreadsheets/u/0/,Google 表格,google-docs.png,,办公工具,工具
+https://app.powerbi.com/groups/me/reports/,Power BI,power-bi.png,,办公工具,工具
+https://my.vultr.com/,Vultr,vultr.png,服务器商,云服务器,独立站
+https://bandwagonhost.com/aff.php?aff=61264,BandwagonHost,bandwagonhost.png,服务器商,云服务器,独立站
+https://account.godaddy.com/products,Godaddy,godaddy.png,域名服务商,域名,独立站
+https://www.similarweb.com/website/colourpop.com,Similarweb,similarweb.png,网站分析 ,网站分析,独立站
+https://justmysocks1.net/members/clientarea.php?action=productdetails&id=68524,Just My Socks,just-my-socks.png,VPN 服务商，搬瓦工旗下,网络工具,独立站
+https://ads.google.com/aw/keywordplanner/home,Google 关键字规划师,google-keywordplanner.png,,独立站广告工具,独立站
+https://analytics.google.com/analytics/web/,Google Analytics,google-analytics.png,,独立站广告工具,独立站
+https://merchants.google.com/,Google Merchant Center,google-merchant-center.png,,独立站广告工具,独立站
+https://ads.google.com/aw/express/summary,Google 广告,google-ads.png,Google 广告后台,独立站广告工具,独立站
+https://business.facebook.com/,Facebook 商务管理平台,facebook-business.png,,独立站广告工具,独立站
+https://www.facebook.com/ads/library/?active_status=all&ad_type=political_and_issue_ads&country=ALL&impression_search_field=has_impressions_lifetime,Facebook 广告资料库,facebook-ads.png,,独立站广告工具,独立站
+https://themeforest.net/category/ecommerce/shopify,ThemeForest,themeforest.png,Shopify 模板,独立站工具,独立站
+https://search.google.com/test/mobile-friendly,Google Search Console,google-search-console.png,移动设备适合性测试,独立站工具,独立站
+https://developers.google.com/speed/pagespeed/insights/,PageSpeed Insights,pagespeed-insights.png,Google 网页测速,独立站工具,独立站
+https://gtmetrix.com/,GTmetrix,gtmetrix.png,网页测速,独立站工具,独立站
+https://search.google.com/search-console,Google Search Console,google-search-console.png,,独立站工具,独立站
